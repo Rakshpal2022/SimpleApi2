@@ -9,7 +9,7 @@ public class UnitTest1
     public void Test1()
     {
        var ctr=objValueController.Get(1);
-        //Assert.Equal("Raksh Pal",ctr);
-        Assert.Equal("Amit Pal",ctr);
+        Assert.Equal("Raksh Pal",ctr);
+       // Assert.Equal("Amit Pal",ctr);
     }
 }
