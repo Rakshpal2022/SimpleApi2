@@ -1,0 +1,14 @@
+ what is CI/CD pipeline
+what is RabbitMQ and how to configure RabbitMQ in Microservices
+How RabbitMq is differ from Kafka
+ what is azure deveops
+ alternative to azure deveopshow to connect Github and azure to azure deveops
+ how to configure aure deveops pipeline
+ how to continiusly integrate and deployment in azure side
+ what is cqrs pattern
+ what is midiatR pattern
+ difference between monolithic and microsoftservice
+ angular-subject,behavioursubject,asyncsubject,relaysubject
+ webpack and complete knowledge of webpack
+ azure kubernetes service
+ 
